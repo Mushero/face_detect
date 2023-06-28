@@ -9,7 +9,7 @@ You need to install:
 
     ```Shell
     # Python >= 3.6 is needed
-    pip3 install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
     
